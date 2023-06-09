@@ -1,2 +1,3 @@
 t commit -m"a"
+git pusht commit -m"a"
 git push
